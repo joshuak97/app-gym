@@ -1,0 +1,8 @@
+{
+  "name": "appGym",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2ef8de36"
+}
